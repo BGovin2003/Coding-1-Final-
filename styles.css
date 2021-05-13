@@ -1,0 +1,29 @@
+.display-img {
+    width: 100%;
+    height: auto;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+  }
+  .about-img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 1rem;
+  }
+  .contact {
+    text-align: left;
+    font-family: 'Lexend';
+    font-weight: 600;
+  }
+.footer {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+footer{
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+body {
+    background-color: cadetblue;
+}
